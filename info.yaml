@@ -1,0 +1,16 @@
+library: LELO_EX_SKY130A
+cell: LELO_EX
+# Your name
+author: Ahmed Sorkatti
+# Your github username
+github: sorka34
+# Something funny and descriptive
+tagline: Current shadow clone jutsu
+# Your email, if you so wish
+email: sorkatti34@gmail.com
+# Your github site, usually <github username>.github.io
+url: sorka-34.github.io
+doc:
+  libraries:
+    LELO_EX_SKY130A:
+       - LELO_EX
